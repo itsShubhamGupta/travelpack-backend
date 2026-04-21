@@ -2,7 +2,6 @@ package com.travelpack.controller;
 
 import com.travelpack.dto.BookingRequest;
 import com.travelpack.dto.BookingResponse;
-import com.travelpack.entity.Booking;
 import com.travelpack.entity.User;
 import com.travelpack.service.BookingService;
 import lombok.RequiredArgsConstructor;
