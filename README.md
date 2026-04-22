@@ -1,4 +1,22 @@
-# TravelPack Backend – Tour Package Management System
+# 🌍 TravelPack Backend – Tour Package Management System
+
+🚀 Spring Boot backend powering a full-stack travel booking application
+
+---
+
+## 🌐 Live Demo
+
+🔗 Frontend (UI): https://travelpack-in.netlify.app
+
+🔗 Backend API: https://travelpack-backend-3.onrender.com
+
+---
+
+## 🔗 Frontend Repository
+
+👉 https://github.com/itsShubhamGupta/travelpack-ui
+
+---
 
 ## 🚀 Overview
 This is a Spring Boot backend for a Tour Package Booking System where users can browse and book travel packages, and admins can manage packages and itineraries.
